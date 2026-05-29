@@ -25,7 +25,7 @@ print("Rotated List:", result)
 ```
 
 ## Output:
-<img width="715" height="179" alt="image" src="https://github.com/user-attachments/assets/a355f4ac-f60c-4415-a0b7-0c034a337871" />
+<img width="601" height="148" alt="image" src="https://github.com/user-attachments/assets/235fc19f-85e1-424c-a545-58a92ac2c51b" />
 
 
 ## Result:
